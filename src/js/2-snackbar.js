@@ -1,7 +1,7 @@
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
-// import iconOk from '../img/2-snackbar/check-circle.svg';
-// import iconClose from '../img/2-snackbar/x-octagon.svg';
+import iconOk from '../img/check-circle.svg';
+import iconClose from '../img/x-octagon.svg';
 
 // Custom checkbox
 const inputRadioEls = document.querySelectorAll('[name="state"]');
