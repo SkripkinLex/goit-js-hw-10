@@ -3,6 +3,7 @@ import 'flatpickr/dist/flatpickr.min.css';
 
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
+import imageUrl from '../img/x-octagon.svg'
 
 
 const iziToastOptions = {
